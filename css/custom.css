@@ -1,0 +1,10 @@
+/* custom styles can go here */
+.reveal section img {
+  border: none;
+  box-shadow: none;
+  background: none;
+}
+
+img[alt=logo] {
+  height: 200px;
+}
