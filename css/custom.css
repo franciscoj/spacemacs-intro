@@ -1,10 +1,17 @@
-/* custom styles can go here */
 .reveal section img {
   border: none;
   box-shadow: none;
   background: none;
 }
 
+.reveal section code {
+  background-color: #FFF;
+}
+
 img[alt=logo] {
   height: 200px;
+}
+
+img[alt=small-logo] {
+  height: 50px;
 }
