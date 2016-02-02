@@ -1,4 +1,1 @@
-## What is spacemacs?
-
-
- * Set of sane
+# What is spacemacs?
