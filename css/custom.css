@@ -5,7 +5,8 @@
 }
 
 .reveal section code {
-  background-color: #FFF;
+  background-color: #000;
+  color: #fff;
 }
 
 img[alt=logo] {
