@@ -7,8 +7,8 @@ Reveal.configure({
 });
 
 
-// // (an outdated version of) http://headjs.com/ is also loaded
-// head.ready("lodash.min.js", function () {
-//   // LoDash can be used from here
-// });
-// head.js("https://cdnjs.cloudflare.com/ajax/libs/lodash.js/2.4.1/lodash.min.js");
+// (an outdated version of) http://headjs.com/ is also loaded
+head.ready("jquery-2.2.0.min.js", function () {
+  $('pre code').addClass('hljs');
+});
+head.js("https://code.jquery.com/jquery-2.2.0.min.js");

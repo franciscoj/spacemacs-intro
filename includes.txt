@@ -1,4 +1,10 @@
 css/custom.css
 js/custom.js
 images/background.png
+images/diff-hl.png
+images/emacs-logo.png
 images/logo.svg
+images/real-programmers.png
+images/redbooth.png
+images/space-cadet-keyboard.png
+images/tardis.png

@@ -4,8 +4,8 @@
   background: none;
 }
 
-.reveal section code {
-  background-color: #000;
+.reveal section code:not(.hljs) {
+  background-color: #ccc;
   color: #fff;
 }
 
