@@ -9,9 +9,11 @@ emacs, it is an old and outdated fork.
 
 ```sh
 brew install emacs
+brew linkapps
+# Some other mac stuff might be required, sorry :(
 ```
 
-### Check whether it installed properly
+### Check whether it is properly installed
 
 ```sh
 emacs --version # => This should be >= than 24.4

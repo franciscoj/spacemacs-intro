@@ -1,9 +1,9 @@
 ### Ruby (2)
 
 You can also use reek :) `gem install reek`
+Add this to your config inside dotspacemacs/user-config
 
 ```
-  ;; Add this to your config inside dotspacemacs/user-config
   (flycheck-define-checker ruby-reek
     "A Ruby smeel checker using reek
 
