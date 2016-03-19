@@ -9,3 +9,5 @@
       ;; to run the specs with rspec instead of rake
       ruby-test-runner 'rspec)
 ```
+
+(quick demo)
