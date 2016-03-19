@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "First steps with Spacemacs.",
   "scripts": {
-    "start": "prez --serve --highlight-theme=solarized_dark"
+    "start": "prez --serve --highlight-theme=solarized_dark --watch"
   },
   "author": "Fran Casas <fran.casas@redbooth.com> (http://github.com/franciscoj)",
   "devDependencies": {
-    "prez": "^4.5.0"
+    "prez": "^4.7.0"
   }
 }
